@@ -1,10 +1,10 @@
 .pink {
-	background-color: pink;
+	background-color: #ffc0cb;
 	font-family: verdana, dejavu sans, sans-serif;
 }
 
 #blue {
-	color: blue;
+	color: #0000ff;
 	font-size: 36px;
 }
 
@@ -13,7 +13,7 @@
 }
 
 #green {
-	background-color: lightgreen;
+	background-color: #90ee90;
 	font-size: 24px;
 	font-weight: bold;
 }
